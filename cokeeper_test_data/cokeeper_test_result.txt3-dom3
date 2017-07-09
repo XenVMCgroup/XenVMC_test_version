@@ -1,0 +1,48 @@
+May 20 19:55:49 domu3 kernel: [ADD]current time:1495281349, 808046843
+May 20 19:55:49 domu3 kernel: xenvmc_frontend_init: line 2414: XENVMC successfully initialized!
+May 20 19:55:49 domu3 kernel: session_recv: line 1367: register successfully!
+May 20 19:55:49 domu3 kernel: [ADD]frontend_over time:1495281349, 811046954
+May 20 19:55:49 domu3 kernel: add vm:domid 21 ip:c0a80133
+May 20 19:55:49 domu3 kernel: [ADD]frontend_over time:1495281349, 811046954
+May 20 19:55:49 domu3 kernel: add vm:domid 22 ip:c0a80134
+May 20 19:55:49 domu3 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 19:55:49 domu3 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 19:56:11 domu3 kernel: [ADD]frontend_over time:1495281371, 473788249
+May 20 19:56:11 domu3 kernel: add vm:domid 24 ip:c0a80136
+May 20 19:56:33 domu3 kernel: [ADD]frontend_over time:1495281393, 544267550
+May 20 19:56:33 domu3 kernel: add vm:domid 25 ip:c0a80137
+May 20 19:57:06 domu3 kernel: [ADD]frontend_over time:1495281426, 664611486
+May 20 19:57:06 domu3 kernel: add vm:domid 26 ip:c0a80138
+May 20 19:57:57 domu3 kernel: [ADD]frontend_over time:1495281477, 667108229
+May 20 19:57:57 domu3 kernel: add vm:domid 27 ip:c0a80139
+May 20 19:58:24 domu3 kernel: [ADD]frontend_over time:1495281504, 900512605
+May 20 19:58:24 domu3 kernel: add vm:domid 28 ip:c0a8013a
+May 20 19:58:51 domu3 kernel: [ADD]frontend_over time:1495281531, 580510270
+May 20 19:58:51 domu3 kernel: add vm:domid 29 ip:c0a8013b
+May 20 19:59:18 domu3 kernel: [ADD]frontend_over time:1495281558, 656886986
+May 20 19:59:18 domu3 kernel: add vm:domid 30 ip:c0a8013c
+May 20 20:00:02 domu3 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:02 domu3 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 20 20:00:02 domu3 kernel: [DEL]frontend_over time:1495281602, 535321075
+May 20 20:00:14 domu3 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:14 domu3 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 20 20:00:14 domu3 kernel: [DEL]frontend_over time:1495281614, 768322533
+May 20 20:00:21 domu3 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:21 domu3 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 20 20:00:21 domu3 kernel: [DEL]frontend_over time:1495281621, 207375623
+May 20 20:00:27 domu3 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:27 domu3 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 20 20:00:27 domu3 kernel: [DEL]frontend_over time:1495281627, 739701046
+May 20 20:00:35 domu3 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:35 domu3 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 20 20:00:35 domu3 kernel: [DEL]frontend_over time:1495281635, 131709774
+May 20 20:00:46 domu3 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:46 domu3 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 20 20:00:46 domu3 kernel: [DEL]frontend_over time:1495281646, 847711170
+May 20 20:00:52 domu3 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:52 domu3 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 20 20:00:52 domu3 kernel: [DEL]frontend_over time:1495281652, 931711896
+May 20 20:01:04 domu3 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:01:04 domu3 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:01:04 domu3 kernel: [DEL]frontend_over time:1495281664, 78099191
+May 20 20:01:04 domu3 kernel: [DEL]frontend_over time:1495281664, 79099178

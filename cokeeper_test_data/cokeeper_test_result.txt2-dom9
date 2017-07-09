@@ -1,0 +1,48 @@
+May 17 22:06:11 domu9 kernel: [ADD]current time:1495029971, 678624081
+May 17 22:06:11 domu9 kernel: xenvmc_frontend_init: line 2414: XENVMC successfully initialized!
+May 17 22:06:11 domu9 kernel: session_recv: line 1367: register successfully!
+May 17 22:06:11 domu9 kernel: [ADD]frontend_over time:1495029971, 691623807
+May 17 22:06:11 domu9 kernel: add vm:domid 1 ip:c0a80133
+May 17 22:06:11 domu9 kernel: [ADD]frontend_over time:1495029971, 691623807
+May 17 22:06:11 domu9 kernel: add vm:domid 2 ip:c0a80134
+May 17 22:06:11 domu9 kernel: [ADD]frontend_over time:1495029971, 691623807
+May 17 22:06:11 domu9 kernel: add vm:domid 3 ip:c0a80135
+May 17 22:06:11 domu9 kernel: [ADD]frontend_over time:1495029971, 691623807
+May 17 22:06:11 domu9 kernel: add vm:domid 4 ip:c0a80136
+May 17 22:06:11 domu9 kernel: [ADD]frontend_over time:1495029971, 691623807
+May 17 22:06:11 domu9 kernel: add vm:domid 5 ip:c0a80137
+May 17 22:06:11 domu9 kernel: [ADD]frontend_over time:1495029971, 691623807
+May 17 22:06:11 domu9 kernel: add vm:domid 6 ip:c0a80138
+May 17 22:06:11 domu9 kernel: [ADD]frontend_over time:1495029971, 691623807
+May 17 22:06:11 domu9 kernel: add vm:domid 7 ip:c0a80139
+May 17 22:06:11 domu9 kernel: [ADD]frontend_over time:1495029971, 691623807
+May 17 22:06:11 domu9 kernel: add vm:domid 8 ip:c0a8013a
+May 17 22:06:11 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:06:11 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:06:11 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:06:11 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:06:11 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:06:11 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:06:11 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:06:11 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:26:23 domu9 kernel: [ADD]frontend_over time:1495031183, 207617899
+May 17 22:26:23 domu9 kernel: add vm:domid 10 ip:c0a8013c
+May 17 22:28:00 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:28:00 domu9 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 17 22:28:00 domu9 kernel: [DEL]frontend_over time:1495031280, 893617899
+May 17 22:29:08 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:29:08 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:29:08 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:29:08 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:29:08 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:29:08 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:29:08 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:29:08 domu9 kernel: [DEL]frontend_over time:1495031348, 758483330
+May 17 22:29:08 domu9 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:29:08 domu9 kernel: [DEL]frontend_over time:1495031348, 759483330
+May 17 22:29:08 domu9 kernel: [DEL]frontend_over time:1495031348, 761483330
+May 17 22:29:08 domu9 kernel: [DEL]frontend_over time:1495031348, 762483330
+May 17 22:29:08 domu9 kernel: [DEL]frontend_over time:1495031348, 763483330
+May 17 22:29:08 domu9 kernel: [DEL]frontend_over time:1495031348, 769483330
+May 17 22:29:08 domu9 kernel: [DEL]frontend_over time:1495031348, 770483330
+May 17 22:29:08 domu9 kernel: [DEL]frontend_over time:1495031348, 771483330

@@ -1,0 +1,48 @@
+May 17 21:33:19 domu5 kernel: [ADD]current time:1495027999, 744178711
+May 17 21:33:19 domu5 kernel: xenvmc_frontend_init: line 2414: XENVMC successfully initialized!
+May 17 21:33:19 domu5 kernel: session_recv: line 1367: register successfully!
+May 17 21:33:19 domu5 kernel: [ADD]frontend_over time:1495027999, 756177452
+May 17 21:33:19 domu5 kernel: add vm:domid 1 ip:c0a80133
+May 17 21:33:19 domu5 kernel: [ADD]frontend_over time:1495027999, 756177452
+May 17 21:33:19 domu5 kernel: add vm:domid 2 ip:c0a80134
+May 17 21:33:19 domu5 kernel: [ADD]frontend_over time:1495027999, 756177452
+May 17 21:33:19 domu5 kernel: add vm:domid 3 ip:c0a80135
+May 17 21:33:19 domu5 kernel: [ADD]frontend_over time:1495027999, 756177452
+May 17 21:33:19 domu5 kernel: add vm:domid 4 ip:c0a80136
+May 17 21:33:19 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 21:33:19 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 21:33:19 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 21:33:19 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 21:45:25 domu5 kernel: [ADD]frontend_over time:1495028725, 732140350
+May 17 21:45:25 domu5 kernel: add vm:domid 6 ip:c0a80138
+May 17 21:49:07 domu5 kernel: [ADD]frontend_over time:1495028947, 88140350
+May 17 21:49:07 domu5 kernel: add vm:domid 7 ip:c0a80139
+May 17 22:06:03 domu5 kernel: [ADD]frontend_over time:1495029963, 44140350
+May 17 22:06:03 domu5 kernel: add vm:domid 8 ip:c0a8013a
+May 17 22:06:11 domu5 kernel: [ADD]frontend_over time:1495029971, 671140350
+May 17 22:06:11 domu5 kernel: add vm:domid 9 ip:c0a8013b
+May 17 22:26:23 domu5 kernel: [ADD]frontend_over time:1495031183, 220098630
+May 17 22:26:23 domu5 kernel: add vm:domid 10 ip:c0a8013c
+May 17 22:28:00 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:28:00 domu5 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 17 22:28:00 domu5 kernel: [DEL]frontend_over time:1495031280, 904098630
+May 17 22:29:08 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:29:08 domu5 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 17 22:29:08 domu5 kernel: [DEL]frontend_over time:1495031348, 758098630
+May 17 22:29:40 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:29:40 domu5 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 17 22:29:40 domu5 kernel: [DEL]frontend_over time:1495031380, 820098630
+May 17 22:30:00 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:30:00 domu5 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 17 22:30:00 domu5 kernel: [DEL]frontend_over time:1495031400, 528098630
+May 17 22:30:24 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:30:24 domu5 kernel: kthread_vmc_event_process: line 1208: release channel!
+May 17 22:30:24 domu5 kernel: [DEL]frontend_over time:1495031424, 992098630
+May 17 22:30:37 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:30:37 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:30:37 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:30:37 domu5 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 17 22:30:37 domu5 kernel: [DEL]frontend_over time:1495031437, 325098630
+May 17 22:30:37 domu5 kernel: [DEL]frontend_over time:1495031437, 326098630
+May 17 22:30:37 domu5 kernel: [DEL]frontend_over time:1495031437, 327098630
+May 17 22:30:37 domu5 kernel: [DEL]frontend_over time:1495031437, 329098630

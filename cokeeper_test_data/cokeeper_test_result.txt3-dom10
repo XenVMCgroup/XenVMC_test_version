@@ -1,0 +1,48 @@
+May 20 19:59:18 domu10 kernel: [ADD]current time:1495281558, 635143626
+May 20 19:59:18 domu10 kernel: xenvmc_frontend_init: line 2414: XENVMC successfully initialized!
+May 20 19:59:18 domu10 kernel: session_recv: line 1367: register successfully!
+May 20 19:59:18 domu10 kernel: [ADD]frontend_over time:1495281558, 656143626
+May 20 19:59:18 domu10 kernel: add vm:domid 25 ip:c0a80137
+May 20 19:59:18 domu10 kernel: [ADD]frontend_over time:1495281558, 656143626
+May 20 19:59:18 domu10 kernel: add vm:domid 26 ip:c0a80138
+May 20 19:59:18 domu10 kernel: [ADD]frontend_over time:1495281558, 656143626
+May 20 19:59:18 domu10 kernel: add vm:domid 27 ip:c0a80139
+May 20 19:59:18 domu10 kernel: [ADD]frontend_over time:1495281558, 656143626
+May 20 19:59:18 domu10 kernel: add vm:domid 28 ip:c0a8013a
+May 20 19:59:18 domu10 kernel: [ADD]frontend_over time:1495281558, 656143626
+May 20 19:59:18 domu10 kernel: add vm:domid 29 ip:c0a8013b
+May 20 19:59:18 domu10 kernel: [ADD]frontend_over time:1495281558, 656143626
+May 20 19:59:18 domu10 kernel: add vm:domid 21 ip:c0a80133
+May 20 19:59:18 domu10 kernel: [ADD]frontend_over time:1495281558, 656143626
+May 20 19:59:18 domu10 kernel: add vm:domid 22 ip:c0a80134
+May 20 19:59:18 domu10 kernel: [ADD]frontend_over time:1495281558, 656143626
+May 20 19:59:18 domu10 kernel: add vm:domid 23 ip:c0a80135
+May 20 19:59:18 domu10 kernel: [ADD]frontend_over time:1495281558, 656143626
+May 20 19:59:18 domu10 kernel: add vm:domid 24 ip:c0a80136
+May 20 19:59:18 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 19:59:18 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 19:59:18 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 19:59:18 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 19:59:18 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 19:59:18 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 19:59:18 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 19:59:18 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 19:59:18 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:02 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:02 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:02 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:02 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:02 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:02 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:02 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:02 domu10 kernel: [DEL]frontend_over time:1495281602, 523631668
+May 20 20:00:02 domu10 kernel: [DEL]frontend_over time:1495281602, 524631668
+May 20 20:00:02 domu10 kernel: [DEL]frontend_over time:1495281602, 525631668
+May 20 20:00:02 domu10 kernel: [DEL]frontend_over time:1495281602, 527631668
+May 20 20:00:02 domu10 kernel: [DEL]frontend_over time:1495281602, 528631668
+May 20 20:00:02 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:02 domu10 kernel: ERROR xenvmc_rx_interrupt: line 131: buffer is empty, while recver still recved evtchn
+May 20 20:00:02 domu10 kernel: [DEL]frontend_over time:1495281602, 534631668
+May 20 20:00:02 domu10 kernel: [DEL]frontend_over time:1495281602, 535631668
+May 20 20:00:02 domu10 kernel: [DEL]frontend_over time:1495281602, 536631668
+May 20 20:00:02 domu10 kernel: [DEL]frontend_over time:1495281602, 537631668
